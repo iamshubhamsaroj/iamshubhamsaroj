@@ -40,5 +40,3 @@ Simple React dashboard showcasing TypeScript, reusable components, and API integ
 - [Email](mailto:shubhamsarojdev@gmail.com)
 
 ---
-
-*Currently open to freelance opportunities in TypeScript, Full Stack, and Cloud Development.*
