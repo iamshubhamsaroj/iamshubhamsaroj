@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Shubham Saroj
 
 I'm a Senior Software Engineer with 3+ years of experience building scalable, cloud-based applications with:
 
@@ -36,8 +36,8 @@ Simple React dashboard showcasing TypeScript, reusable components, and API integ
 
 ## 📫 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](www.linkedin.com/in/shubhamsaroj)
+- [Email](mailto:shubhamsarojdev@gmail.com)
 
 ---
 
